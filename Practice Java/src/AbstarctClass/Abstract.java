@@ -12,6 +12,9 @@ public abstract class Abstract {
 	}
 	public void test3()
 	{
+		      
+		
+		
 		
 	}
 	public abstract void test4();
